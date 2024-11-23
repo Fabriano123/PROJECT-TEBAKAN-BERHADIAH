@@ -22,6 +22,7 @@ class tebaktebakan:
                 kesempatan += 1 
             elif angkadiskon == tebakan:
                 print(f"SELAMAT ANDA MENDAPATKAN DISKON SEBESAR {tebakan}% !")
+                print(f"Anda dapat menggunakan voucher ini untuk berbelanja di alfamart atau indomaret terdekat.")
                 break
             print(f"※"*60)
 def main():
